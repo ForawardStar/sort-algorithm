@@ -1,0 +1,6 @@
+≈≈–ÚÀ„∑®,5%M first,5%M second,5%M third,5%M forth,5%M fifth,≈≈–ÚÀ„∑®,10%M first,10%M second,10%M third,10%M forth,10%M fifth,≈≈–ÚÀ„∑®,50%M first,50%M second,50%M third,50%M forth,50%M fifth,≈≈–ÚÀ„∑®,M first,M second,M third,M forth,M fifth,
+BubbleSort,0,0,0,0,0,BubbleSort,0,0,0,0.001,0,BubbleSort,0,0.001,0,0.001,0,BubbleSort,0.001,0.001,0,0.001,0.001,
+InsertSort,0,0,0,0,0,InsertSort,0,0,0,0,0.001,InsertSort,0.001,0.001,0.002,0.001,0.001,InsertSort,0.002,0.002,0.001,0.001,0.002,
+QuickSort,0.008,0.009,0.008,0.01,0.007,QuickSort,0.025,0.025,0.027,0.029,0.028,QuickSort,0.641,0.662,0.644,0.68,0.705,QuickSort,2.451,2.319,2.306,2.316,2.317,
+MergeSort,0.001,0.001,0.001,0.001,0.001,MergeSort,0.003,0.002,0.002,0.002,0.002,MergeSort,0.015,0.014,0.015,0.014,0.014,MergeSort,0.038,0.037,0.037,0.038,0.039,
+HeapSort,0.001,0.002,0.001,0.002,0.001,HeapSort,0.003,0.003,0.003,0.004,0.003,HeapSort,0.021,0.021,0.021,0.021,0.021,HeapSort,0.044,0.047,0.045,0.045,0.044,
